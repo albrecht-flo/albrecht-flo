@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @albrecht-flo
 - 👀 I’m interested in Programming, Nature, Sailing
 - 🌱 I’m currently learning Django, Kotlin, Vulkan
-- 📚 I currently pursue a Master's degree in Computer Science
+- 📚 I currently pursue a Master's degree in Computer Science at the technical university of munich (TUM) and study/work at the EURECOM in Sophia Antipolis
 - 📫 How to reach me? Here! ;)
 
 <!---
